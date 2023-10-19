@@ -15,3 +15,4 @@ O versionamento de código permite que os desenvolvedores criem ramificações (
 # 2 no index.html esplicar a diferença entre git e gitchub,adcione imagens com as logo dos dois, e coloque um css
 # envie para o github
 
+O github é uma plataforma de hospedagen de repositorios na nuvem.
